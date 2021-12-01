@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,8BACE,YACF,CAEA,cACE,aAAc,CACd,UAAW,CACX,WACF","file":"main.5a515def.chunk.css","sourcesContent":[".scrollbar::-webkit-scrollbar {\r\n  display: none;\r\n}\r\n\r\n.markdown img {\r\n  display: block;\r\n  width: 100%;\r\n  height: auto;\r\n}\r\n"]}

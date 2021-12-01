@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/unschool_minorproject2/static/css/main.5a515def.chunk.css",
+    "main.js": "/unschool_minorproject2/static/js/main.ae90e412.chunk.js",
+    "main.js.map": "/unschool_minorproject2/static/js/main.ae90e412.chunk.js.map",
+    "runtime-main.js": "/unschool_minorproject2/static/js/runtime-main.cf9beb7c.js",
+    "runtime-main.js.map": "/unschool_minorproject2/static/js/runtime-main.cf9beb7c.js.map",
+    "static/css/2.07a31460.chunk.css": "/unschool_minorproject2/static/css/2.07a31460.chunk.css",
+    "static/js/2.29141028.chunk.js": "/unschool_minorproject2/static/js/2.29141028.chunk.js",
+    "static/js/2.29141028.chunk.js.map": "/unschool_minorproject2/static/js/2.29141028.chunk.js.map",
+    "static/js/3.ee996792.chunk.js": "/unschool_minorproject2/static/js/3.ee996792.chunk.js",
+    "static/js/3.ee996792.chunk.js.map": "/unschool_minorproject2/static/js/3.ee996792.chunk.js.map",
+    "index.html": "/unschool_minorproject2/index.html",
+    "static/css/2.07a31460.chunk.css.map": "/unschool_minorproject2/static/css/2.07a31460.chunk.css.map",
+    "static/css/main.5a515def.chunk.css.map": "/unschool_minorproject2/static/css/main.5a515def.chunk.css.map",
+    "static/js/2.29141028.chunk.js.LICENSE.txt": "/unschool_minorproject2/static/js/2.29141028.chunk.js.LICENSE.txt",
+    "static/media/jithin.d1d9e161.jpg": "/unschool_minorproject2/static/media/jithin.d1d9e161.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf9beb7c.js",
+    "static/css/2.07a31460.chunk.css",
+    "static/js/2.29141028.chunk.js",
+    "static/css/main.5a515def.chunk.css",
+    "static/js/main.ae90e412.chunk.js"
+  ]
+}
